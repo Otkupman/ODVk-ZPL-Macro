@@ -1,4 +1,4 @@
-!ODVK_RUS.zpl
+!ODVK.zpl
 
 !ODVk Macro v.1.1b edu
 !Otkupman D.G. (odvk@ya.ru)
