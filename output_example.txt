@@ -1,7 +1,7 @@
 Executing C:\Users\ODVk\Documents\Zemax\MACROS\ODVK.ZPL.
 © ODVk
 Файл   : ODVk FishEye (mod).zmx
-Система: Пиксель = 5 мкм
+Система: "Рыбий глаз"
 
 	Основные параметры
 
