@@ -1,2 +1,1 @@
-* linguist-vendored
-*.zpl linguist-vendored=false
+ *.* linguist-language=ZPL
